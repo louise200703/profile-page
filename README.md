@@ -10,3 +10,6 @@ This project was created as part of my learning journey in web development. It i
 
 ## 🎯 Purpose
 To practice basic HTML and start building projects from scratch.
+
+## 🌐 Live Demo
+[View the project](https://louise200703.github.io/profile-page/)
